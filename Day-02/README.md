@@ -32,4 +32,4 @@ Understand how cells grow, divide, move and form lineages during development, an
 - [Khan Academy — Phases of Mitosis](https://www.khanacademy.org/science/biology/cell-cycle/mitosis/a/phases-of-mitosis)
 - [ZFIN — Zebrafish Developmental Stages](https://zfin.org/zf_info/zfbook/stages/index.html)
 
-**Status:** 🔄 In Progress
+**Status:** 🔄 In Progress Learning 
